@@ -5,9 +5,9 @@
 #include <iostream>
 #include "menu.cpp"
 #include "contador.cpp"
-#include "nivel 1.cpp"
-#include "nivel 2.cpp"
-#include "nivel 3.cpp"
+#include "Nivel1.cpp"
+#include "Nivel2.cpp"
+#include "Nivel3.cpp"
 #include "menu finales.cpp"
 
 #define PI 3.14159265f

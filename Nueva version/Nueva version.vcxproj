@@ -130,9 +130,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="menu finales.cpp" />
     <ClCompile Include="menu.cpp" />
-    <ClCompile Include="nivel 1.cpp" />
-    <ClCompile Include="nivel 2.cpp" />
-    <ClCompile Include="nivel 3.cpp" />
+    <ClCompile Include="Nivel1.cpp" />
+    <ClCompile Include="Nivel2.cpp" />
+    <ClCompile Include="Nivel3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

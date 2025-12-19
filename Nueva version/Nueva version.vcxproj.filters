@@ -27,13 +27,13 @@
     <ClCompile Include="menu.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="nivel 1.cpp">
+    <ClCompile Include="Nivel1.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="nivel 2.cpp">
+    <ClCompile Include="Nivel2.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="nivel 3.cpp">
+    <ClCompile Include="Nivel3.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
